@@ -52,7 +52,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <skip.docker.build>true</skip.docker.build>
         <!-- Dependency Versions -->
-        <log4j2.version>2.14.1</log4j2.version>
+        <log4j2.version>2.16.0</log4j2.version>
         <lombok.version>1.18.20</lombok.version>
         <micronaut.version>2.5.5</micronaut.version>
         <micronaut.data.version>2.4.3</micronaut.data.version>
